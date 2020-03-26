@@ -1,3 +1,5 @@
+Add your personal GitHub token in .env, restart the development server after changing this environment variable.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
